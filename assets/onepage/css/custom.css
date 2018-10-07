@@ -1,0 +1,39 @@
+/* here you can put your own css to customize and override the theme */
+.center-me{
+    position: relative;
+    margin-left:auto;
+    margin-right:auto;
+    float:none;
+}
+.blue-text{
+    color:#0084ff !important;
+    text-shadow:1px 1px 1px whitesmoke;
+}
+.shadow{
+    filter:none;
+    text-shadow: 2px 2px 1px blue;
+}
+.tech{
+    max-height: 100px;
+}
+.lower{
+    margin-top:50px;
+}
+.informal{
+    max-width: 50%;
+    margin-left:25%;
+    margin-right:auto;
+    float:none;
+}
+.tb-socio{
+    
+    height: 66px;
+    font-size: 48px;
+    padding-top: 21px;
+}
+#techUsed{
+    margin-bottom: 40px;
+}
+#resume{
+    color:black;
+}
