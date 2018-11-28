@@ -37,3 +37,18 @@
 #resume{
     color:black;
 }
+.projects-block {
+    background: #bbbbbb;
+    padding: 17px 0;
+    text-align: center;
+  }
+  #projects{
+    margin-bottom: 40px;
+  }
+.capstone-projects{
+    max-width: 500px;
+}
+.project-description{
+    color:white;
+    font-size: 24px;
+}
