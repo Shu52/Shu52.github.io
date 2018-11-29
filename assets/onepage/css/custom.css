@@ -52,3 +52,7 @@
     color:white;
     font-size: 30px;
 }
+.message-block h2{
+    padding-left: 15%;
+    padding-right: 15%;
+}
